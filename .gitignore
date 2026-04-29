@@ -1,2 +1,3 @@
 agents/ 
 botagents/.env 
+venv/
